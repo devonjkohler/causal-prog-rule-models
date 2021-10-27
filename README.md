@@ -3,7 +3,7 @@
 
 #### Devon Kohler, Jeremy Zucker, Vartika Tewari, Karen Sachs, Robert Ness, Olga Vitek
 
-This repository contains the code for three different causal probabilistic programming approaches to rule based models. This work was recently presented at ProbProg 2021. The corresponding abstract and poster presentation can be found in this repository.
+This repository contains the implementation of three different causal probabilistic programming languages, Omega, Kappa, and Probability Trees, when applied rule based biological models. This work was recently presented at ProbProg 2021. The corresponding abstract and poster presentation can be found in this repository.
 
 ## Introduction
 
